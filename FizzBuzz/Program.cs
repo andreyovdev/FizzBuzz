@@ -13,7 +13,7 @@ namespace FizzBuzz
 			FizzBuzzResult result = detector.GetOverlappings(input);
 
 			Console.WriteLine("output string:");
-			Console.WriteLine(result.Result); 
+			Console.WriteLine(result.Result);
 			Console.WriteLine("count:");
 			Console.WriteLine(result.Matches);
 		}
