@@ -1,7 +1,7 @@
-﻿using FizzBuzz.Application;
 using NUnit.Framework;
+using FizzBuzz.Application;
 
-namespace FizzBuzz.Tests
+namespace FizzBuzzDetectorTests
 {
 	/// <summary>
 	/// Contains unit tests for the <see cref="FizzBuzzDetector"/> class.
